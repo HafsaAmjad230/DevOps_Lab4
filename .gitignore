@@ -1,2 +1,5 @@
 out/
 *.log
+# Ignore build and logs
+out/
+*.log
